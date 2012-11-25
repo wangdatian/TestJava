@@ -1,6 +1,6 @@
 
 public class A {
 	int java3 =5;
-	int java2 = 5;
+	int java2 = 6;
 
 }
